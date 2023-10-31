@@ -1,1 +1,1 @@
-# GB2 Arcade Idle BAS
+# GB2 Arcade Idle BAS Боровинских Алексей
